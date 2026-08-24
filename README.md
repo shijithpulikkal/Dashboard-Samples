@@ -8,7 +8,7 @@ The purpose of this repository is to demonstrate dashboard design, KPI reporting
 
 The dashboards are created using:
 
-- Google Looker Studio (formerly Google Data Studio)
+- Google Data Studio (formerly Google Data Studio)
 - Google Sheets
 - Microsoft Excel
 - Power BI
@@ -53,7 +53,7 @@ Dashboard-Samples
 
 ## 📈 Dashboard Categories
 
-### Google Looker Studio Dashboards
+### Google Data Studio Dashboards
 
 Interactive dashboards developed using:
 
@@ -126,7 +126,7 @@ Features:
 ### Visualization Tools
 
 - Power BI
-- Google Looker Studio
+- Google Data Studio
 - Microsoft Excel
 - Google Sheets
 
@@ -190,7 +190,7 @@ The dashboards in this repository follow industry-standard visualization practic
 - DAX
 - Excel
 - Google Sheets
-- Looker Studio
+- Data Studio
 - SQL
 - BigQuery
 
