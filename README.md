@@ -230,7 +230,7 @@ The repository contains sample dashboard images and PDF exports that demonstrate
 
 - GitHub: https://github.com/shijithpulikkal
 - LinkedIn: https://www.linkedin.com/in/shijithpulikkal
-- xtractstudio.com
+- [xtractstudio.com](https://www.xtractstudio.com/)
 ---
 
 ## ⭐ Support
